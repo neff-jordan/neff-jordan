@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neff-jordan
-- 👀 I’m interested in machine learning and working at startups. 
-- 🌱 I’m currently learning Java and C++ with plans to start Python soon. 
+- 👀 I love learning more and more about CS. Currently interested on working in fintech or machine learning technology. 
+- 🌱 I’m currently profcicent in JAVA and just started learning Python. 
 - 📫 Email me at, neff.jordan1936@gmail.com
 
 <!---
