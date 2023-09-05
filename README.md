@@ -1,6 +1,6 @@
 👋 Hi, I’m @neff-jordan!
 
-👀 I'm passionate about expanding my knowledge in the field of computer science. My current focus is on pursuing opportunities in fintech or machine learning technology.
+👀 I'm passionate about expanding my knowledge in the field of computer science. My current focus is on pursuing opportunities in back-end development ideally for the space industry. 
 
 🌱 I'm proficient in JAVA and I've recently embarked on a journey to learn Python, which I'm excited about!
 
