@@ -2,7 +2,7 @@
 
 👀 I'm passionate about expanding my knowledge in the field of computer science. My current focus is on pursuing opportunities in back-end development ideally for the space industry. 
 
-🌱 I'm proficient in JAVA and I have experience with R and Python. 
+🌱 I'm proficient in Java and I have experience with R, Python, and C. Currently focused on leanring how to construct API's and databases such as Postgres. 
 
 📫 Feel free to reach out to me at neff.jordan1936@gmail.com. I'm always open to connecting and exploring new opportunities in the world of CS!
 
