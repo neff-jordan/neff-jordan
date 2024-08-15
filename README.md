@@ -1,10 +1,11 @@
-👋 Hi, I’m @neff-jordan!
+Hi, I’m Jordan
 
-👀 I'm passionate about expanding my knowledge in the field of computer science. My current focus is on pursuing opportunities in back-end development ideally for the space or defense industry. Other interests include robotics and machine learning but my exposure to each has been limited. 
+I am a computer science major with a minor in statistics at West Chester University, expected to graduate in December 2025. I have a passion for writing code that solves meaningful problems.
 
-🌱 I'm proficient in Java and I have experience with R, Python, and C. Currently focused on strengthening my backend devlopment skills by working with more databases and API's in my personal projects. I am also starting to learn C++ and Rust for my robotics interest. 
+I’m particularly interested in three sectors within tech: back-end development, data science/ML, and cybersecurity. My GitHub repos primarily reflect my focus on back-end development, which aligns with the early stages of my degree program. However, as I progress through my studies, I’m exploring the possibility of pivoting to one of the other two areas as I gain more exposure. All that to say I am looking for a company that gives me the option to change course if that is the path I decide to go down. 
 
-📫 Feel free to reach out to me at neff.jordan1936@gmail.com. I'm always open to connecting and exploring new opportunities in the world of CS!
+Thanks for reading. 
+
 
 <!---
 neff-jordan/neff-jordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
